@@ -1,0 +1,98 @@
+amor;sentimento profundo
+sol;brilho do dia
+lua;reflexo da noite
+mar;onde as ondas dançam
+flor;beleza da natureza
+paz;calma interior
+riso;eco de felicidade
+vento;sopro da liberdade
+céu;onde os sonhos voam
+estrela;guia no escuro
+fogo;calor e paixão
+água;vida e renovação
+terra;fundamento da existência
+sombra;refúgio do calor
+luz;iluminação do caminho
+som;melodia da vida
+tempo;fluxo inevitável
+sorriso;início de uma conexão
+abraço;acolhimento sincero
+amizade;laço de confiança
+sonho;visão do futuro
+coragem;força para agir
+esperança;promessa de dias melhores
+liberdade;escolha do ser
+sabedoria;conhecimento aplicado
+aventura;descoberta do desconhecido
+alegria;celebração do momento
+tristeza;passagem necessária
+arte;expressão da alma
+música;ritmo da vida
+história;contos do passado
+natureza;harmonia do mundo
+viagem;exploração do novo
+sorriso;reflexo de alegria
+carinho;toque afetivo
+dedicação;compromisso com o que se ama
+aprendizado;crescimento constante
+reflexão;olhar para dentro
+mudança;transformação inevitável
+fé;crença no invisível
+gratidão;reconhecimento do bom
+humor;leveza na vida
+persistência;insistência em seguir
+saúde;riqueza da vida
+sonho;meta a alcançar
+simplicidade;beleza nas pequenas coisas
+compaixão;empatia ao próximo
+generosidade;doação sem espera
+fé;esperança renovada
+união;força em conjunto
+karro;kkkaero
+amor;sentimento profundo
+sol;brilho do dia
+lua;reflexo da noite
+mar;onde as ondas dançam
+flor;beleza da natureza
+paz;calma interior
+riso;eco de felicidade
+vento;sopro da liberdade
+céu;onde os sonhos voam
+estrela;guia no escuro
+fogo;calor e paixão
+água;vida e renovação
+terra;fundamento da existência
+sombra;refúgio do calor
+luz;iluminação do caminho
+som;melodia da vida
+tempo;fluxo inevitável
+sorriso;reflexo de alegria
+abraço;acolhimento sincero
+amizade;laço de confiança
+sonho;meta a alcançar
+coragem;força para agir
+esperança;promessa de dias melhores
+liberdade;escolha do ser
+sabedoria;conhecimento aplicado
+aventura;descoberta do desconhecido
+alegria;celebração do momento
+tristeza;passagem necessária
+arte;expressão da alma
+música;ritmo da vida
+história;contos do passado
+natureza;harmonia do mundo
+viagem;exploração do novo
+carinho;toque afetivo
+dedicação;compromisso com o que se ama
+aprendizado;crescimento constante
+reflexão;olhar para dentro
+mudança;transformação inevitável
+fé;esperança renovada
+gratidão;reconhecimento do bom
+humor;leveza na vida
+persistência;insistência em seguir
+saúde;riqueza da vida
+simplicidade;beleza nas pequenas coisas
+compaixão;empatia ao próximo
+generosidade;doação sem espera
+união;força em conjunto
